@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcofa87
 - 👀 I’m interested in Coding, Travelling, Sport
-- 🌱 I’m currently learning for my personal growth
+- 🌱 I’m currently learning for my personal growth and for finding a work as a developer.
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 How to reach me marco.falasca87@gmail.com
 
